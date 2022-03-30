@@ -13,6 +13,7 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+    "gatsby-plugin-mdx",
     {
       resolve: "gatsby-plugin-prettier-eslint",
       // this is the default configuration, override only what you need
