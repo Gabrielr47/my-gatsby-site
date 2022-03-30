@@ -14,6 +14,7 @@ module.exports = {
       },
     },
     "gatsby-plugin-mdx",
+    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-plugin-prettier-eslint",
       // this is the default configuration, override only what you need
